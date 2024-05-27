@@ -1,1 +1,1 @@
-web: python main wall for others.py
+web: python main.py
